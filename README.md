@@ -5,7 +5,7 @@ Conforme un equipo de trabajo constituido por hasta 5 estudiantes. Uno actuará 
 
 ## Integrantes
 
--  Issac Maza [Issac-Maza](https://www.github.com/octokatherine)
+-  Issac Maza [Issac-Maza](https://github.com/Issac-Maza)
 -  Juan Gualotuña [JGAndrade03](https://github.com/JGAndrade03)
 -  Joseph Miranda [JosephMiranda87](https://github.com/JosephMiranda87)
 -  Hans Rivas [HansRivas](https://github.com/HansRivas)
